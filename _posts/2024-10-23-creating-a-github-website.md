@@ -11,7 +11,7 @@ tags: [markdown, html, css, scss]
 - Click Use This Template & Create Repository
 
 ### Cloning your Github Repo
-- git clone https://github.com/<username>/<username>.github.io.git 
+- git clone https://github.com/username/username.github.io.git 
 - Adjust config.yml
 - Create A Test Post
 - Push Changes To Your Git
@@ -19,6 +19,6 @@ tags: [markdown, html, css, scss]
     - git add .
     - git commit -m "1st commit..."
     - git push
-- View Live Changes On <username>.github.io
+- View Live Changes On username.github.io
 
 
