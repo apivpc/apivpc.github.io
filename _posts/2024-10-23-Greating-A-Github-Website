@@ -1,11 +1,9 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: Greating A Github Website
+date: 2024-10-24 11:07:00 +/-TTTT
+categories: [Animal, Insect]
+tags: [bee]
 ---
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
 
 ### Creating A Github Repo
 - Create Github Account
@@ -22,3 +20,5 @@ order: 4
     - git commit -m "1st commit..."
     - git push
 - View Live Changes On <username>.github.io
+
+
