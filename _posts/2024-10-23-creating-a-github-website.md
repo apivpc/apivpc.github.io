@@ -5,7 +5,7 @@ categories: [Github, CMS]
 tags: [markdown, html, css, scss]
 ---
 
-### Creating A Github Repo
+### Creating Your Github Repo
 - Create Github Account
 - Goto https://github.com/cotes2020/chirpy-starter
 - Click Use This Template & Create Repository
