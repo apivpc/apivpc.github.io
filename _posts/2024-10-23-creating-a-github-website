@@ -1,7 +1,8 @@
 ---
-title: Greating This Website
-date: 2024-10-23
-
+title: Greating A Github Website
+date: 2024-10-24 11:07:00 +/-TTTT
+categories: [Github, CMS]
+tags: [markdown, html, css, scss]
 ---
 
 ### Creating A Github Repo
@@ -19,3 +20,5 @@ date: 2024-10-23
     - git commit -m "1st commit..."
     - git push
 - View Live Changes On <username>.github.io
+
+
