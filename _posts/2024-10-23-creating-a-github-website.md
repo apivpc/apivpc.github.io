@@ -1,8 +1,8 @@
 ---
 title: Greating A Github Website
 date: 2024-10-24 11:07:00 +/-TTTT
-categories: [Animal, Insect]
-tags: [bee]
+categories: [Github, CMS]
+tags: [markdown, html, css, scss]
 ---
 
 ### Creating A Github Repo
