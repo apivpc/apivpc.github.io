@@ -27,5 +27,6 @@ _sass/dist
 assets/js/dist
 
 # Custom
+__temp__
 *.sh
 docker-compose.yaml
