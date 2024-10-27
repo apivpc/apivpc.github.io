@@ -23,7 +23,8 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https:///apivpc.github.io"
+url: "https://apivpc.github.io"
+# url: "http://localhost"
 
 github:
   username: apivpc # change to your GitHub username
@@ -225,4 +226,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
