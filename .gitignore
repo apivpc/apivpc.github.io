@@ -27,6 +27,9 @@ _sass/dist
 assets/js/dist
 
 # Custom
-__temp__
+backups
+scripts
+container
 *.sh
 docker-compose.yaml
+.dockerignore

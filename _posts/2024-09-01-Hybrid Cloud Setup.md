@@ -1,8 +1,8 @@
 ---
 title: Hybrid Cloud Setup
 date: 2024-09-01 08:00:00 +0800
-categories: [VPC, Virtual Environment, Backup & Recvovery, High Availibility]
-tags: []
+categories: [Virtual Environment, Infrastructure]
+tags: [Hybrid Cloud, AWS Services]
 ---
 
 ## Hybrid Cloud Setup
