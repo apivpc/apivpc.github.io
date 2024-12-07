@@ -30,6 +30,5 @@ assets/js/dist
 backups
 scripts
 container
-*.sh
 docker-compose.yaml
 .dockerignore
