@@ -1,8 +1,8 @@
 ---
 ---
 
-// @use '../assets/vendors/bootstrap/scss/bootstrap';
-// @use '../assets/vendors/bootstrap/dist/css/bootstrap.min.css';
+// @use 'vendors/bootstrap/scss/bootstrap';
+@use 'vendors/bootstrap/dist/css/bootstrap.min.css';
 
 @use 'main
 {%- if jekyll.environment == ' production ' -%}
