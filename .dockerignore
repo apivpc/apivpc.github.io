@@ -27,11 +27,10 @@ _sass/dist
 assets/js/dist
 
 # Custom
-backups
-scripts
-container
-./docker-compose.yaml
-./.DS_Store
-./.dockerignore
-./README
-./LICENSE
+backups/*
+scripts/*
+container/*
+tools/*
+docker-compose.yaml
+.dockerignore
+.DS_Store
