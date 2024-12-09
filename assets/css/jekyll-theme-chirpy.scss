@@ -1,8 +1,9 @@
 ---
 ---
 
-// @use '../node_modules/bootstrap/scss/bootstrap';
-@use '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+// @use '../assets/vendors/bootstrap/scss/bootstrap';
+@use '../assets/vendors/bootstrap/dist/css/bootstrap.min.css';
+
 
 @use 'main
 {%- if jekyll.environment == 'production' -%}
