@@ -16,7 +16,7 @@ services:
     # command: "bundle install"
     ### Serve: Enable after Installation
     # command: "bundle exec jekyll serve --verbose --trace --incremental --livereload --livereload-port 35729 --host 0.0.0.0 --port 4000"
-    command: "bundle exec jekyll serve --incremental --host 0.0.0.0 --port 4000 --livereload --livereload-port 35729"
+    command: "bundle exec jekyll serve --host 0.0.0.0 --port 4000 --livereload --livereload-port 35729"
 
 volumes:
   jekyll-bundle:
