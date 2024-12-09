@@ -1,0 +1,14 @@
+{
+  "name": "apidocs",
+  "version": "1.0.0",
+  "description": "- docker exec -it apidocs-jekyll bash - [Static Assets](https://github.com/cotes2020/chirpy-static-assets) - [Customize](https://c0by.de/blog/ueber/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
