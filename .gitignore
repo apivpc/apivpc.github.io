@@ -31,5 +31,6 @@ backups
 scripts
 container
 docker-compose.yaml
+docker-entrypoint.sh
 .dockerignore
 .DS_Store

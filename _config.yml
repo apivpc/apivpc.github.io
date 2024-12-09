@@ -216,7 +216,13 @@ exclude:
   - "*.config.js"
   - package*.json
   - docker-compose.yaml
-  - "*.sh"
+  - docker-entrypoint.sh
+  - backups
+  - scripts
+  - container
+  - docker-compose.yaml
+  - .dockerignore
+  - .DS_Store
 
 jekyll-archives:
   enabled: [categories, tags]
