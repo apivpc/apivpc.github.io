@@ -14,7 +14,6 @@ group :jekyll_plugins do
   # gem "jekyll-include-cache"
   gem "base64"
   gem "csv"
-  gem "jekyll-tidy"
 end
 
 # require 'warning'
