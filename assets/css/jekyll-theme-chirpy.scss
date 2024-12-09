@@ -2,11 +2,10 @@
 ---
 
 // @use '../assets/vendors/bootstrap/scss/bootstrap';
-// @use '../assets/vendors/bootstrap/dist/css/bootstrap.min.css';
-
+@use '../assets/vendors/bootstrap/dist/css/bootstrap.min.css';
 
 @use 'main
-{%- if jekyll.environment == 'production' -%}
+{%- if jekyll.environment == ' production ' -%}
   .bundle
 {%- endif -%}
 ';
