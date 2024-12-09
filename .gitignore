@@ -30,8 +30,8 @@ assets/js/dist
 backups
 scripts
 container
-./docker-compose.yaml
-./.DS_Store
-./.dockerignore
-./README
-./LICENSE
+docker-compose.yaml
+.DS_Store
+.dockerignore
+README
+LICENSE

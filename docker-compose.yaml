@@ -11,10 +11,10 @@ services:
       - 35729:35729
     volumes:
       - jekyll-bundle:/usr/local/bundle
-      - ./:/site
-    ### Install: provide at least a blank Jekyll Gemfile
+      - ./:/pages
+    ### Installation - provide at least a blank Jekyll Gemfile and run command:
     # command: "bundle install"
-    ### Serve: Enable after Installation
+    ### Serve - enable "serve" command:
     # command: "bundle exec jekyll serve --verbose --trace --incremental --livereload --livereload-port 35729 --host 0.0.0.0 --port 4000"
     command: "bundle exec jekyll serve --host 0.0.0.0 --port 4000 --livereload --livereload-port 35729"
 
